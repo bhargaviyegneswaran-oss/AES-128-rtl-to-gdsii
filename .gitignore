@@ -1,0 +1,12 @@
+*.vcd
+*.out
+*.log
+*.tmp
+.DS_Store
+__pycache__/
+
+sim/*
+!sim/.gitkeep
+
+runs/
+*.bak
