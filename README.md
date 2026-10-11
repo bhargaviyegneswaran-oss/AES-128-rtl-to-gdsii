@@ -26,7 +26,7 @@ This project implements an AES-128 encryption engine in Verilog and takes it thr
 ## ASIC Flow
 The design was implemented using the following flow:
 
-RTL Design → Simulation → Synthesis → Floorplanning → Placement → CTS → Routing → Magic DRC → GDSII Generation
+RTL Design → Simulation → Synthesis → Floorplanning → Placement → Routing → Magic DRC → GDSII Generation
 
 ## Tools Used
 - Verilog
